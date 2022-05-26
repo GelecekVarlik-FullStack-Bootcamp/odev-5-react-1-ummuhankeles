@@ -1,15 +1,7 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
-
-# Homework 
-```Ödev```
-
-
-## Homework Description
-
-```Ödev Açıklaması ```
-
-
+# Hafta 5 - ReactJs
+## Ödev Açıklaması 
+#### Verilen dizide;
+* İsmin baş harfine göre gruplama
+* Yaşadıkları şehre göre gruplama yapılmalı.
 ## Author
-
-```Ödevi yapan```
+```Ümmühan Keleş```
